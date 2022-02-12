@@ -1,0 +1,15 @@
+{
+  "name": "misc-sm-util",
+  "version": "1.0.0",
+  "description": "A small miscellaneous utility package for javascript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "util",
+    "npm",
+    "utility"
+  ],
+  "author": "silverblue1",
+  "license": "MIT"
+}
